@@ -9,11 +9,11 @@
   margin: auto;
   display: flex;
   list-style-type: circle;
-  gap: 35px;
-  grid-column: 1/2;
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
+  gap: 35px;
+  grid-column: 1/2;
 }
 
 .nav__menu-logo {
