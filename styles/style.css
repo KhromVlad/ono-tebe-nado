@@ -32,8 +32,8 @@
 }
 
 .item-text {
-  border-bottom: 1px solid black;
   text-decoration: none;
+  border-bottom: 1px solid black;
 }
 
 .nav__menu-item-active {
