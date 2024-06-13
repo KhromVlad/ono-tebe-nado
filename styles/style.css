@@ -58,7 +58,7 @@
   height: 757px;
   color: white;
   text-transform: uppercase;
-  background-image: url(../images/cover.jpg);
+  background-image: url(./images/cover.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -196,20 +196,20 @@
 .card-left {
   z-index: -1;
   height: 100%;
-  background-image: url(../images/card-lot-01.jpg);
+  background-image: url(./images/card-lot-01.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .card-center {
-  background-image: url(../images/card-lot-02.jpg);
+  background-image: url(./images/card-lot-02.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .card-right {
   height: 100%;
-  background-image: url(../images/card-lot-03.jpg);
+  background-image: url(./images/card-lot-03.jpg);
   background-position: center;
   background-size: cover;
 }
